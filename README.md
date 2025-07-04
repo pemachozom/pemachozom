@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pema Chozom
 
-🎓 Final-year BSc in CS (AI & Data Science) @ GCIT, Bhutan  
+🎓 Graduated from GCIT - BSc in CS (AI & Data Science) @ GCIT, Bhutan  
 💡 Passionate about AI for Accessibility, UX Design, and Human-Centered Innovation  
 🏆 Winner – DHI Innovation Challenge 2024 (LagdaAI)  
 👩‍🎓 Class Representative | 👩‍🚒 Former Scout Captain  
