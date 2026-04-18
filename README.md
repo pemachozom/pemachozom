@@ -20,7 +20,7 @@
 
 ## 🧠 Skills
 - **Programming:** Python, Node.js, JavaScript  
-- **Web Development:** HTML, CSS
+- **Web Development:** HTML, CSS, React native, React Vue
 - **Databases:** MongoDB, MySQL 
 - **AI/ML:** TensorFlow, Keras, Scikit-learn, NLP, Deep Learning  
 - **UX/UI Design:** Wireframing, Prototyping, Accessibility Design  
